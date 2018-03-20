@@ -1,0 +1,14 @@
+{
+  "name": "docker_hello_world",
+  "version": "1.0.0",
+  "description": "\"nodejs on dcoker\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mithra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
